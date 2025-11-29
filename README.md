@@ -37,10 +37,10 @@ Each function accepts two inputs and returns the output of the operation.
 4. Provides clear and readable output
 
 ## How to Run the Program
-1. Save the file as Calculator_Many_Project.py
+1. Save the file as Calculator_Mini_Project.py
 2. Open the terminal or command prompt
 3. Navigate to the file location
-4. Run the command: python Calculator_Many_Project.py
+4. Run the command: python Calculator_Mini_Project.py
 
 ## Future Enhancements
 1. Add error handling for division by zero
